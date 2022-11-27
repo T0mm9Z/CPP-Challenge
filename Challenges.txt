@@ -1,0 +1,1 @@
+A1: Summe der durch 3 und 5 teilbaren natürlichen Zahlen
